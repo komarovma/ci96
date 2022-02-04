@@ -1,1 +1,1 @@
-# ci96
+https://gitlab.com/netology15/new_ci
